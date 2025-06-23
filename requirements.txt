@@ -1,0 +1,5 @@
+lightfm
+numpy
+pandas
+scikit-learn
+matplotlib 
