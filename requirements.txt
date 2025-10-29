@@ -1,5 +1,7 @@
-lightfm
 numpy
 pandas
 scikit-learn
 matplotlib 
+flwr==1.8.0
+torch>=2.2.0
+scipy
